@@ -7,7 +7,6 @@ To develop a Django application to store and retrieve data from a bank loan data
 ## ENTITY RELATIONSHIP DIAGRAM
 
 
-
 ## DESIGN STEPS
 
 ### STEP 1:
@@ -27,9 +26,6 @@ Execute Django admin and create details for 10 books
 
 
 ## OUTPUT
-
-Include the screenshot of your admin page.
-
-
+![alt text](<Screenshot 2024-11-06 005014.png>)
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
